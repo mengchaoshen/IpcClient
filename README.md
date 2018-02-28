@@ -4,9 +4,13 @@ IPC demo 的客户端，主要是介绍IPC中AIDL和messenger的两种实现方�
 
 主要是参考
 
- http://blog.csdn.net/zxw136511485/article/details/50815062(AIDL代码中的实际使用)
+ AIDL代码中的实际使用：
+
+ http://blog.csdn.net/zxw136511485/article/details/50815062
  
- http://blog.csdn.net/zxw136511485/article/details/53168501(使用messenger实现IPC)
+ 使用messenger实现IPC：
+ 
+ http://blog.csdn.net/zxw136511485/article/details/53168501
  
 这两篇博客写出来的demo
 
